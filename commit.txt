@@ -1,0 +1,3 @@
+Commit: app.py, style.css, index.html
+Commit: style.css estilo
+Commit: index.html página
